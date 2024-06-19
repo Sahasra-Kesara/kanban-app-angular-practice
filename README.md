@@ -1,3 +1,9 @@
+![Screenshot (367)](https://github.com/Sahasra-Kesara/kanban-app-angular-practice/assets/121740972/e87cf7af-d327-4151-b79c-25de52dfd9e9)
+
+
+https://github.com/Sahasra-Kesara/kanban-app-angular-practice/assets/121740972/f9346516-28ca-434a-b92e-4de3857f97fd
+
+
 # Kanban
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
